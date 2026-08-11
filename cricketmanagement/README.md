@@ -15,7 +15,7 @@ A simple Python-based Cricket Management System created using OOPs concepts.
 * Calculate player performance
 * View player summary
 
- 🛠️ Technologies Used
+ Technologies Used
 * Python
 * OOP (Classes & Objects)
 * Lists
@@ -23,7 +23,7 @@ A simple Python-based Cricket Management System created using OOPs concepts.
 * Conditional Statements
 * Loops
 
- ▶️ How to Run
+How to Run
 1. Install Python 3.
 2. Download or clone this repository.
 3. Open the project folder in the terminal.
@@ -33,11 +33,11 @@ A simple Python-based Cricket Management System created using OOPs concepts.
 python cricket_management.py
 ```
 
-👨‍💻 Author
+Author
 
 Akhil Banoth
 
 B.Tech – Computer Science & Engineering
- 📚 Project Purpose
+Project Purpose
 
 This project was created to practice Python programming and OOPs concepts.
